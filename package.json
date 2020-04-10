@@ -4,8 +4,7 @@
   "author": "Justin Schwartzenberger",
   "description": "",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/coursefiles/angular-essential-training.git"
+    "type": "git"
   },
   "scripts": {
     "ng": "ng",
